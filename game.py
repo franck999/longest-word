@@ -19,7 +19,7 @@ class Game:
             if letter in letters:
                 letters.remove(letter)
             else:
-                return False:
+                return False
         #return True
         return self.__check_dictionary(word)
 
