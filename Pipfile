@@ -9,6 +9,7 @@ pylint = "*"
 astroid = "*"
 
 [packages]
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
